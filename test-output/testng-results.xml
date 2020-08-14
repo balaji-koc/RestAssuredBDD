@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" total="1" passed="1">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="4389" started-at="2020-08-14T07:47:39Z" finished-at="2020-08-14T07:47:44Z">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="4389" started-at="2020-08-14T07:47:39Z" finished-at="2020-08-14T07:47:44Z">
+      <class name="com.employee.GetEmpList">
+        <test-method status="PASS" signature="getList()[pri:1, instance:com.employee.GetEmpList@1d057a39]" name="getList" duration-ms="4357" started-at="2020-08-14T13:17:39Z" finished-at="2020-08-14T13:17:44Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- getList -->
+      </class> <!-- com.employee.GetEmpList -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
